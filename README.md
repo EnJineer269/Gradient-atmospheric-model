@@ -15,3 +15,5 @@ Laser & Photonics Reviews (2025).
 4. Run.
 
 If you have any question, please email jin269@wisc.edu or mkats@wisc.edu
+
+License: MIT
