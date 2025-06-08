@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "A gradient atmospheric model reveals enhanced radiative cooling potential and demonstrates the advantages of broadband emitters"
+version: "1.0"
+authors: Yeonghoon Jin and Mikhail Kats      
+date-released: 2025-06-08
+doi: 10.5281/zenodo.15620535
+repository-code: https://github.com/yourUsername/gradient-atmospheric-model
+license: MIT
